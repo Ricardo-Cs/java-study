@@ -12,6 +12,10 @@
 - [Aula 03: Fazendo download da JDK 15](#parte3)
 - [Aula 04: Configurando variáveis de ambiente](#parte4)
 - [Aula 05: Executando compilação manualemente](#parte5)
+- [Aula 06: Download da IDE Intellij Community](#parte6)
+- [Aula 07: Conhecendo a IDE Intellij Community](#parte7)
+- [Aula 08: Organizando o código em pacotes](#parte8)
+- [Aula 09: Comentários](#parte9)
 
 ---
 
@@ -86,7 +90,32 @@ public class HelloWorld {
 ## <a name="parte7">Aula 07: Conhecendo a IDE IntelliJ Community</a>
 
 - https://youtu.be/ds3t9C2A50U?si=6c7XqR3r5XhwKg5Q
-- 
+- ctrl + f9 - Apenas build
+- shift + f10 - Build e run do projeto
+- ctrl + shift + f10 - Rebuild do projeto
+
+[Voltar ao Índice](#indice)
+
+---
+
+## <a name="parte8">Aula 08: Organizando o código em pacotes</a>
+
+- https://youtu.be/TnnS-R--WKc?si=sM9XvwuM8JDRndLb
+- Nomes dos pacotes normalmente são a url do site inversa + nome do projeto + divisões, exemplo: br.com.devdojo.introducao
+- Cada "ponto" será uma pasta, ou seja, a organização irá ficar: br/com/devdojo/introducao
+
+
+[Voltar ao Índice](#indice)
+
+---
+
+## <a name="parte9">Aula 09: Comentários</a>
+
+- https://youtu.be/2rMT0qRyiYs?si=m3y11umkY9H8GPOu
+- Comentário de linha (//) - ctrl + /
+- Comentários de linhas (/* ... */) - ctrl + shift + /
+- JavaDoc (/** ... */) - alt + enter + "add javadoc"
+- JavaDoc é utilizado para documentar classes, métodos ou atributos (mais recomendado entre as 3).
 
 [Voltar ao Índice](#indice)
 
