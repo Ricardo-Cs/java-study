@@ -16,7 +16,10 @@
 - [Aula 07: Conhecendo a IDE Intellij Community](#parte7)
 - [Aula 08: Organizando o código em pacotes](#parte8)
 - [Aula 09: Comentários](#parte9)
-- [Aula 10: Tipos primitivos 1](#parte10)
+- [Aula 10: Tipos primitivos 1 - Convenções de variáveis](#parte10)
+- [Aula 11: Tipos primitivos 2 - Declaração e tamanho em memória](#parte11)
+- [Aula 12: Tipos primitivos 3 - Casting](#parte12)
+- [Aula 13: Tipos primitivos 4 - Strings](#parte13)
 
 ---
 
